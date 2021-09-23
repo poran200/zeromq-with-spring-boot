@@ -1,2 +1,2 @@
 # zeromq-with-spring-boot
-## Zeromq Publisher Subcriber 
+## Zeromq Publisher Subscriber 
